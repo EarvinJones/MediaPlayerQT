@@ -1,6 +1,7 @@
 #ifndef LOGIN_H
 #define LOGIN_H
-
+#include"QtWidgets"
+#include"QtSql"
 #include <QMainWindow>
 
 namespace Ui {
